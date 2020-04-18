@@ -16,7 +16,7 @@ public class Main {
 
 	public static void main(String[] args) throws IOException {
 		sequenzaUniforme();
-		/*System.out.println("---------------------------------------------------------");
+		System.out.println("---------------------------------------------------------");
         System.out.println();
 		sequenzaPoisson();
 		System.out.println("---------------------------------------------------------");
@@ -30,7 +30,7 @@ public class Main {
 		sequenzaIperexp();
 		System.out.println("---------------------------------------------------------");
 		System.out.println();
-		sequenzaErlang();*/
+		sequenzaErlang();
 		
 	}
 	
