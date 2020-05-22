@@ -34,7 +34,7 @@ public class Main {
 	t.uniformita(a,seed,b);
 	}
 	public static void main (String args[]) {
-testRn();
+//testRn();
 System.out.println();
 System.out.println("---------------------------------------------");
 System.out.println();
