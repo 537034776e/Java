@@ -34,10 +34,6 @@ public class Main {
 	t.uniformita(a,seed,b);
 	}
 	public static void main (String args[]) {
-//testRn();
-System.out.println();
-System.out.println("---------------------------------------------");
-System.out.println();
 		  testXn();
 	}
 }
