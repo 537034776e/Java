@@ -1,4 +1,4 @@
-package it.bintodec;
+package it.java.bintodec;
 
 import java.util.Scanner;
 public class BinToDec {
