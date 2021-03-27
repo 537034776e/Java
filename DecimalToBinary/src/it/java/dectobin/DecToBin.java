@@ -11,6 +11,7 @@ public class DecToBin {
      System.out.print("Insert decimal number: ");
      Scanner scan=new Scanner(System.in);
      a=scan.nextInt();
+     scan.close();
      System.out.println("Decimal number: "+a);
      System.out.print("Binary value: ");
      ArrayList<Integer> binario=new ArrayList<Integer>();
